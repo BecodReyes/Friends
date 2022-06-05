@@ -1,0 +1,14 @@
+# Friends 友链相关内容
+friends:
+  href: "guys"
+  verify: true
+  page:
+    title: "好伙伴们"
+    comments: false
+    description: "好伙伴们在哪里~"
+    updated: "2021-01-18"
+  list:
+  - name: "Muir社区"
+    bio: "Muir官方论坛 | 是为众多Muir社区玩家提供谈论的地方"
+    avatar: "https://bbs.muir.fun/assets/favicon-ena0nzwp.png"
+    link: "https://bbs.muir.fun"
